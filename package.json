@@ -1,0 +1,15 @@
+{
+  "name": "@ramble-inc/prettier-config",
+  "version": "0.0.1",
+  "description": "Prettier config used in Ramble.inc",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramble-inc/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "ramble"
+  ],
+  "license": "MIT"
+}
