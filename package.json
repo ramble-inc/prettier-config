@@ -4,7 +4,7 @@
   "description": "Prettier config used in Ramble.inc",
   "main": "index.json",
   "files": [
-    "index.js"
+    "index.json"
   ],
   "repository": {
     "type": "git",
